@@ -1,2 +1,2 @@
 # HouseRent
-<h1 style="color:green;">This is my first repository</h1>
+<h1><font color="red">This is my first repository</font></h1>
